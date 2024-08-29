@@ -20,6 +20,7 @@ The Domain Name System (DNS) is a critical component of the internet, responsibl
 
 - [PowerShell](https://docs.microsoft.com/en-us/powershell/) (for PowerShell scripts)
 - Command Prompt
+- Windows Server
 
 
 
